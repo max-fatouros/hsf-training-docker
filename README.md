@@ -33,7 +33,7 @@ Current maintainers of this lesson are
 
 ## Authors
 
-A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
+A list of the lesson authors can be found in [CITATION.cff](CITATION.cff)
 
 ## Contributors
 
