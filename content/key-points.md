@@ -1,4 +1,5 @@
 +++
+aliases = ['/reference.html']
 title = "Key Points"
 layout = "key-points"
 weight = 70

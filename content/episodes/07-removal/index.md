@@ -1,4 +1,5 @@
 +++
+aliases = ['/07-removal/index.html']
 exercises = 5
 keypoints = ['Remove containers with `podman rm <CONTAINER NAME>`', 'Remove images with `podman rmi <IMAGE ID>`', 'Perform faster cleanup with `podman container prune`, `podman image prune`, and `podman system prune`']
 objectives = ['Learn how to cleanup after working with containers']

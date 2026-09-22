@@ -1,4 +1,5 @@
 +++
+aliases = ['/02-pulling-images/index.html']
 exercises = 5
 keypoints = ['Pull images with `podman pull <image-id>`', 'List all images on the computer and other information with `podman images`', 'Image tags distinguish releases or versions and are appended to the image name with a colon']
 objectives = ['Pull images from Docker Hub image registry', 'List local images', 'Introduce image tags']

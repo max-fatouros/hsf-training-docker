@@ -1,4 +1,5 @@
 +++
+aliases = ['/01-introduction/index.html']
 exercises = 5
 keypoints = ['Introduces Docker &mdash; a popular tool for software containerization.', 'Introduces Podman &mdash; an open-source alternative with several advantages.', 'Podman is a drop-in replacement for Docker. Replace `podman` by `docker` in the commands and you are good to go.']
 objectives = ['Learn the basic concepts on containerization.', 'Understand how a container helps with analysis reproducibility.']

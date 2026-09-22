@@ -1,4 +1,5 @@
 +++
+aliases = ['/11-entry/index.html']
 exercises = 10
 keypoints = ['`CMD` provide defaults for an executing container', '`CMD` can provide options for `ENTRYPOINT`', '`ENTRYPOINT` allows you to configure commands that will always run for an executing container']
 objectives = ['Learn how and when to use `CMD`', 'Learn how and when to use `ENTRYPOINT`']

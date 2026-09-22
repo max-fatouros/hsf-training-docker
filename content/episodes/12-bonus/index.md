@@ -1,4 +1,5 @@
 +++
+aliases = ['/12-bonus/index.html']
 exercises = 0
 keypoints = ['Python packages can be installed in Docker images along with Ubuntu packages.', 'It is possible to publish and share Docker images over GitHub packages.']
 objectives = ['To be able to build a Docker container and share it via GitHub packages']

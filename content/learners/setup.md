@@ -1,4 +1,5 @@
 +++
+aliases = ['/setup.html']
 title = 'Setup'
 +++
 ## Installation

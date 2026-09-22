@@ -1,4 +1,5 @@
 +++
+aliases = ['/05-coffee-break/index.html']
 exercises = 15
 keypoints = ['Breaks are helpful in the service of learning']
 objectives = ['Refresh your mental faculties with coffee and conversation']

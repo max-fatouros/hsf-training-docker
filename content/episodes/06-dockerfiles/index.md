@@ -1,4 +1,5 @@
 +++
+aliases = ['/06-dockerfiles/index.html']
 exercises = 20
 keypoints = ['Dockerfiles are written as text file commands to the container engine', 'Images are built with `podman build`', 'Images can have multiple tags associated to them', 'Images can use `COPY` to copy files into them during build', 'Images can use `ADD` to copy remote files and extract compressed files', 'Images can use multi-stage builds to reduce their final size']
 objectives = ['Write simple Dockerfiles', 'Build a container image from a Dockerfile']

@@ -1,4 +1,4 @@
-baseURL = "https://hsf-training.github.io/hsf-training-docker/"
+baseURL = "https://oer-particle-physics.github.io/hsf-training-docker/"
 title = "Introduction to Docker and Podman"
 locale = "en-US"
 enableGitInfo = true
@@ -40,8 +40,8 @@ disableKinds = ["taxonomy", "term", "RSS"]
   tagline = "Introducing Docker and Podman as software development tools and their role in reproducible research."
   description = "The aim of this module is to introduce Docker and Podman as software development tools and to explore their role in reproducible research."
   contact = "hsf-training-wg@googlegroups.com"
-  repo = "https://github.com/hsf-training/hsf-training-docker"
-  docsRepo = "https://github.com/hsf-training/hsf-training-docker"
+  repo = "https://github.com/oer-particle-physics/hsf-training-docker"
+  docsRepo = "https://github.com/oer-particle-physics/hsf-training-docker"
   editBranch = "gh-pages"
   copyrightHolder = "the authors"
   licenseName = "CC BY 4.0"
@@ -132,7 +132,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
       type = "search"
   [[menus.main]]
     name = "GitHub"
-    url = "https://github.com/hsf-training/hsf-training-docker"
+    url = "https://github.com/oer-particle-physics/hsf-training-docker"
     weight = 90
     [menus.main.params]
       icon = "github"

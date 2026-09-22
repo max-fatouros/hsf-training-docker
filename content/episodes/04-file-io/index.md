@@ -1,4 +1,5 @@
 +++
+aliases = ['/04-file-io/index.html']
 exercises = 5
 keypoints = ['Copy files with `podman cp`', 'Mount volumes with `podman run -v <path on host>:<path in container> <image>`']
 objectives = ['Copy files to and from the container', 'Mount directories to be accessed and manipulated by the container']

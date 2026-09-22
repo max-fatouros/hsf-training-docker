@@ -1,4 +1,5 @@
 +++
+aliases = ['/03-running-containers/index.html']
 exercises = 5
 keypoints = ['Run containers with `podman run <image-id>`', 'Monitor containers with `podman ps`', 'Exit interactive sessions using the `exit` command', 'Restart stopped containers with `podman start`']
 objectives = ['Run containers', 'Understand container state', 'Stop and restart containers']
